@@ -1,0 +1,7 @@
+/* src/styles.css */
+.custom-dialog-container .mat-dialog-container {
+    padding: 0;
+    border-radius: 8px;
+    background: #f9f9f9;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
